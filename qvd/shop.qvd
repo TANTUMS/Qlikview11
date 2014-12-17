@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <QvdTableHeader>
+   <QvBuildNo>12664</QvBuildNo>
+   <CreatorDoc>C:\ProgramData\QlikTech\Documents\Qlikview11\Inventarios\Extracci√≥n Inventory MH.qvw</CreatorDoc>
+   <CreateUtcTime>2014-12-17 15:42:32</CreateUtcTime>
+   <SourceCreateUtcTime></SourceCreateUtcTime>
+   <SourceFileUtcTime></SourceFileUtcTime>
+   <SourceFileSize>-1</SourceFileSize>
+   <StaleUtcTime></StaleUtcTime>
+   <TableName>shop</TableName>
+   <Fields>
+     <QvdFieldHeader>
+       <FieldName>Id</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>224</NoOfSymbols>
+       <Offset>0</Offset>
+       <Length>2237</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Name</FieldName>
+       <BitOffset>32</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>224</NoOfSymbols>
+       <Offset>2237</Offset>
+       <Length>3153</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>IdCompany</FieldName>
+       <BitOffset>40</BitOffset>
+       <BitWidth>2</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>3</NoOfSymbols>
+       <Offset>5390</Offset>
+       <Length>15</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>IdCurrency</FieldName>
+       <BitOffset>80</BitOffset>
+       <BitWidth>1</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>2</NoOfSymbols>
+       <Offset>5405</Offset>
+       <Length>10</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>IdIVAGroup</FieldName>
+       <BitOffset>75</BitOffset>
+       <BitWidth>5</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>3</NoOfSymbols>
+       <Offset>5415</Offset>
+       <Length>15</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>IdIVATypeByManagement</FieldName>
+       <BitOffset>81</BitOffset>
+       <BitWidth>1</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>2</NoOfSymbols>
+       <Offset>5430</Offset>
+       <Length>10</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Address</FieldName>
+       <BitOffset>13</BitOffset>
+       <BitWidth>6</BitWidth>
+       <Bias>-2</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>55</NoOfSymbols>
+       <Offset>5440</Offset>
+       <Length>2650</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>TicketCity</FieldName>
+       <BitOffset>25</BitOffset>
+       <BitWidth>7</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>66</NoOfSymbols>
+       <Offset>8090</Offset>
+       <Length>3498</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>IdCountry</FieldName>
+       <BitOffset>82</BitOffset>
+       <BitWidth>1</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>2</NoOfSymbols>
+       <Offset>11588</Offset>
+       <Length>10</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Phone1</FieldName>
+       <BitOffset>19</BitOffset>
+       <BitWidth>6</BitWidth>
+       <Bias>-2</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>36</NoOfSymbols>
+       <Offset>11598</Offset>
+       <Length>755</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Phone2</FieldName>
+       <BitOffset>8</BitOffset>
+       <BitWidth>5</BitWidth>
+       <Bias>-2</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>27</NoOfSymbols>
+       <Offset>12353</Offset>
+       <Length>556</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Phone3</FieldName>
+       <BitOffset>42</BitOffset>
+       <BitWidth>3</BitWidth>
+       <Bias>-2</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>3</NoOfSymbols>
+       <Offset>12909</Offset>
+       <Length>30</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Email</FieldName>
+       <BitOffset>49</BitOffset>
+       <BitWidth>7</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>79</NoOfSymbols>
+       <Offset>12939</Offset>
+       <Length>2056</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Email2</FieldName>
+       <BitOffset>45</BitOffset>
+       <BitWidth>4</BitWidth>
+       <Bias>-2</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>11</NoOfSymbols>
+       <Offset>14995</Offset>
+       <Length>243</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>KeyCodeName</FieldName>
+       <BitOffset>72</BitOffset>
+       <BitWidth>3</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>8</NoOfSymbols>
+       <Offset>15238</Offset>
+       <Length>91</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>KeyCodeSize</FieldName>
+       <BitOffset>83</BitOffset>
+       <BitWidth>1</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>2</NoOfSymbols>
+       <Offset>15329</Offset>
+       <Length>10</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>ModifiedBy</FieldName>
+       <BitOffset>84</BitOffset>
+       <BitWidth>1</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>2</NoOfSymbols>
+       <Offset>15339</Offset>
+       <Length>14</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>ModifiedDate</FieldName>
+       <BitOffset>56</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>TIMESTAMP</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>224</NoOfSymbols>
+       <Offset>15353</Offset>
+       <Length>2016</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>ModifiedOn</FieldName>
+       <BitOffset>64</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>-2</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>9</NoOfSymbols>
+       <Offset>17369</Offset>
+       <Length>245</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>String1</FieldName>
+       <BitOffset>85</BitOffset>
+       <BitWidth>1</BitWidth>
+       <Bias>-2</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>0</NoOfSymbols>
+       <Offset>17614</Offset>
+       <Length>0</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>String2</FieldName>
+       <BitOffset>86</BitOffset>
+       <BitWidth>1</BitWidth>
+       <Bias>-2</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>0</NoOfSymbols>
+       <Offset>17614</Offset>
+       <Length>0</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Disabled</FieldName>
+       <BitOffset>87</BitOffset>
+       <BitWidth>1</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>2</NoOfSymbols>
+       <Offset>17614</Offset>
+       <Length>10</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+   </Fields>
+   <Compression></Compression>
+   <RecordByteSize>11</RecordByteSize>
+   <NoOfRecords>224</NoOfRecords>
+   <Offset>17624</Offset>
+   <Length>2464</Length>
+   <Lineage>
+     <LineageInfo>
+       <Discriminator>ODBC;DSN=MegaWeb</Discriminator>
+       <Statement>shop:
+SQL SELECT *
+FROM MegaWeb.dbo.Shop</Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - ..\qvd\shop.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+   </Lineage>
+   <Comment></Comment>
+ </QvdTableHeader>
+    1 “  1234 !  7201 "  7202 $  7204 %  7205 '  7207 (  7208 *  7210 +  7211 ,  7212 -  7213 .  7214 0  7216 1  7217 2  7218 5  7221 6  7222 8  7224 9  7225 ;  7227 =  7229 ?  7231 A  7233 C  7235 D  7236 F  7238 G  7239 I  7241 J  7242 L  7244 Q  7249 R  7250 S  7251 T  7252 U  7253 V  7254 W  7255 X  7256 Y  7257 Z  7258 [  7259 ]  7261 _  7263 `  7264 a  7265 b  7266 d  7268 e  7269 g  7271 h  7272 j  7274 k  7275 l  7276 m  7277 r  7282 t  7284 u  7285 w  7287 x  7288 y  7289 {  7291 |  7292 }  7293 ~  7294   7295 Ä  7296 Å  7297 É  7299 Ñ  7300 î  7316 ï  7317 ñ  7318 ó  7319 ò  7320 ô  7321 ö  7322 õ  7323 ú  7324 û  7326 ü  7327 †  7328 °  7329 ©  7337 ¨  7340 ≠  7341 Ø  7343 ±  7345 ≤  7346 ≥  7347 ¥  7348 µ  7349 ∂  7350 ∑  7351 ∫  7354 ª  7355 º  7356 æ  7358 ø  7359 ¿  7360 ¡  7361 ¬  7362 √  7363 ƒ  7364 ≈  7365 Á  7399   7700 Ò#  9201 Ú#  9202 Ù#  9204 ı#  9205 ˜#  9207 ¯#  9208 ˙#  9210 ˚#  9211 ¸#  9212 ˝#  9213 ˛#  9214  $  9216 $  9217 $  9218 $  9221 $  9222 	$  9225 $  9227 $  9229 $  9231 $  9233 $  9235 $  9236 $  9238 $  9239 $  9241 $  9242 "$  9250 #$  9251 $$  9252 %$  9253 &$  9254 '$  9255 ($  9256 )$  9257 +$  9259 -$  9261 0$  9264 1$  9265 2$  9266 4$  9268 5$  9269 7$  9271 8$  9272 :$  9274 <$  9276 =$  9277 B$  9282 D$  9284 E$  9285 G$  9287 H$  9288 I$  9289 K$  9291 L$  9292 M$  9293 O$  9295 P$  9296 Q$  9297 S$  9299 d$  9316 e$  9317 g$  9319 h$  9320 i$  9321 j$  9322 o$  9327 p$  9328 q$  9329 y$  9337 |$  9340 }$  9341 Å$  9345 Ç$  9346 É$  9347 Ñ$  9348 Ö$  9349 ä$  9354 ã$  9355 å$  9356 é$  9358 è$  9359 ë$  9361 í$  9362 ì$  9363 î$  9364 ï$  9365 ñ$  9366 ó$  9367 ò$  9368 ô$  9369 ö$  9370 õ$  9371 ú$  9372 û$  9374 ü$  9375 †$  9376 ©$  9385 ™$  9386 ´$  9387 ¨$  9388 ≠$  9389 Æ$  9390 Ø$  9391 ∞$  9392 ±$  9393 ≤$  9394 ≥$  9395 ¥$  9396 µ$  9397 ∂$  9398 ∑$  9399 ∏$  9400 π$  9401 ∫$  9402 ª$  9403 º$  9404 pruebaZ pruebak CNV San Jorge CNV LUCERNA CNV Tijuana CNV Colima CNV Monterrey CNV Coatzacoalcos CNV Celaya CNV LAPAZ CNV Merida CNV Cancun CNV Villahermosa CNV Saltillo CNV Poza Rica CNV Morelia CNV Chihuahua CNV Uruapan CNV Oaxaca CNV Queretaro CNV Tuxtepec CNV Chetumal CNV Zaragoza CNV SATELITE CNV Irapuato CNV Pachuca CNV Tepic CNV Vallarta CNV Tlaquepaque CNV Hermosillo MC Cuernavaca MC Tampico MC San Luis Potosi Mc Altamira MC Puebla MC San Baltazar MC Toluca MC Tlaxcala MC Leon MC MANZANILLO MC Tuxtla MC Comitan MC Reynosa MC Tapachula MC Tehuacan MC Cuautla MC Zacatecas MC Acapulco MC Chilpancingo MC CD GUZMAN MC Teziutlan MC CD Obregon MC Cuernavaca Nvo CNV Aguascalientes MC Matamoros MC Altamirano MC San Cristobal MC Campeche Mc Cardenas MC Cd Acuna MC Iguala MC Ensenada MC Izucar MC Los Mochis MC Ixtlan MC Mexicali MC Monclova MC Playa del Carmen MC Rio Colorado MC Huejutla MC Ciudad Victoria MC Tierra Blanca INTEGRA MC Palenque CNV Zapopan CNV Mazatlan CNV Salina Cruz Aniversario CNV NUEVO LAREDO MC Coatza CNV AMERICAS MC Xalapa CNV La Fragua MC Tapachula 2 MC Durango HD Tlaquepaque MC Otumba MC San Juan del Rio Queretaro MC Tlajomulco MC OLIMPICA MC Maravatio MC Pochutla aniversario nueva MCOCOTLAN MC Irapuato MC San Juan Bosco MC Las Varas MC Tecamac CNV Cuernavaca Integra 2012 CNV Tuxtla 2 CNV Tampico CNV Culiacan CA Guatemala SC ALTAMIRA CAPACITACION PRUEBA SUCURSAL CNV SAN JORGE HD Lucerna HD Tijuana HD Colima HD Monterrey HD Coatzacialcos HD Celaya HD La Paz HD Merida HD Cancun HD Villa Hermosa HD Saltillo HD Poza Rica HD Morelia HD Chihuahua HD Uruapan HD Queretaro HD Tuxtepec HD Chetumal HD Zaragoza HD Satelite HD Irapuato HD Pachuca HD Tepic HD Puerto Vallarta HD Tlaquepaqu HD Hermosillo HD San Luis Potosi HD Altamira 2 HD Puebla HD San Baltazar HD Toluca HD Tlaxcala HD Leon HD Manzanillo HD Comitan HD Reynosa HD Tehuacan HD Cuautla HD Zacatecas HD Acapulco HD Chilpancingo HD Cd Guzman HD Teziutlan HD Cd Obregon HD Aguascalientes HD Matamoros HD Altamirano HD San Cristobal HD Campeche HD Cardenas HD Cd Acuna HD Iguala HD Ensenada HD Izucar HD Los Mochis HD Mexicali HD Monclova HD Playa del Carmen HD Rio Colorado Sonora HD Ciudad Victoria HD Tierra Blanca HD Palenque HD Zapopan HD Mazatlan HD Salina Cruz HD Americas Ver HD Xalapa HD La Fragua Ver HD Tapachula HD Durango XX DH San Juan del Rio Queretaro HD Tlajomulco HD Olimpica HD Maravatio HD Pochutla HD Irapuato 2 HD San Juan Bosco HD Las Varas HD Tecamac HD Cuernavaca HD Tuxtla HD Tampico HD Culiacan INTEGRA 2014 HD Boca del Rio HD Gomez Palacio Tijuana 2 MC Xalapa nuevo ANIVERSARIO 2013 E COMERCE CA ZAMORA CD MEXICO COAPA CA IZCALLI CA CUAUTLA CA TEPA CNV Reynosa Eventos Occidente CNV Manzanillo CNV Oaxaca 2 CA PENJAMO CA GOMEZ PALACIO CA ROMITA CA ALLENDE CA CONDESA CA CERANO CA VERACRUZ CA TECAMAC 2 CNV SAN JUAN BOSCO Prueba nuevo cnv CA TAMPICO Mega Movil CA ZAMORA2 CA BOCA DEL RIO 2 ALTAMIRA MADERO 	         œ   =Ê ^  _  >Ê ﬁ   ‹   Av. Vallarta  Blvd. Gustavo Diaz Ordaz 14910 Centro Comercial Plaza las Brisas local 24B Av Constitucion 637 Col. Lomas de Circunvalacion CP 28010 Av Francisco I Madero 326 Oriente Zona Centro CP 64000 Colegio Militar 400 Col. Centro CP96400 Francisco Juarez 818 B Col. Los Angeles CP 38040 AV. GRAL FELIX ORTEGA 2590-6 Y 7
+COL. CENTRO
+LA PAZ BAJA CALIFORNIA SUR
+CP 23000 Av. Felipe Carrillo Puerto 110 Col Felipe Carrillo, Merida Yucatan CP 97136 Av Lopez Portillo SM60 MZ1 Lote 15 Locales 5 y 6 Lino Merino 804 Col Centro Guadalupe Victoria 685 Zona Centro CP 25000 Av 20 de Noviembre 607 Col Cazones CP 92330 Av Acueducto 154 A Col Chapultepec Nte CP 58260 Av Vallarta 3901 Col. Granjas CP 31160 Nicaragua 74 Col. El Colorin CP 60120 Norte 4 #112 Col. Victor Bravo Ahuja CP 71228 Jose Antonio Septien 19 Col Alameda CP 76040 Av Hidalgo 27-A Col Centro CP 68300 Av Juarez 227 Col Centro CP 77000 Paseo de las Fresas 10 Col Jardines de Irapuato CP 36660 Av Revolucion 1307 Local 2 Centro Comercial Plaza Bella Col Periodistas CP 42060 Priciliano Sanchez 6 Zona Centro CP 63000 Playa de Oro 126-A Zona Hotelera Norte CP48333 Ave, Francisco Silva Romero #256, Col. Lomas de Tlaquepaque, CP. 45520 Blvd. Luis Encinas 345 F Col. Olivares CP 83180 bajada chapultepec 3 col chapultepec cuernavaca mor independencia 2808 col himno nacional san luis potosi blvd revolucion 18 col san aventura atempan tlaxcala tla 4a poniente sur 567 tuxtla gutierrez chi av central norte 47 col centro tapachula chi av insurgentes 534 col gpe victoria cuautla mor av universidad 262-a col la loma zacatecas zac av farallon 158 frac farallon acapulco gue Blvd. San Marcos 504 Lote 12 Manzana 10 Planta Baja Fracc. Circunvalaci√≤n Pte. CP 20210 matamoros 72-a centro matamoros tam pino suarez 11-b barrio de santa lucia san cristobal chi juarez 1105 local 158 plaza castillo  centro ensenada b.c. Av.Vallarta 3200 Col.Vallarta San Jorge av 30 norte manzana 7 local 9 col zazil playa del carmen q roo av hidalgo 5 5ta 501-a col comercial slrio colorado sonora calle jimenez s7n esq nicolas bravo col centro palenque chi Av Prolongacion Americas 228 B col. zapopan centro 45100 Av Ejercito Mexicano 1102 Locales 7 y 23 Col. Tierra y Libertad Manuel Avila Camacho 200 Col. Centro CP 70600 AV VALLARTA 3210 ni√±os heroes 46 col laureles 91030 xalapa ver Av La Fragua 1839 Fracc Moderno 91910 fray bernandino de sahagun 5 centro otumba edo mex Porfirio Diaz 29,Col.Centro PENDIENTE aniversario san rafael 22 local 13 plaza arcos col centro 55740 tecamac edo mex . Enriqueta Amador Diaz, Av Mercedarios 5  Santa Cruz Nieto GUADALAJARA GDL Vallarta 3210, Col. Vallarta San Jorge cp 44690 Guadalajara, Jal. Lucerna 27 Col. Ju√°rez cp 06600 M√©xico, D.F. Blvd. Gustavo Diaz Ordaz 14910 Centro Comercial Plaza las Brisas local 24B ,Tijuana BC Av Constitucion 637 Col. Lomas de Circunvalacion CP 28010,Colima, Col. Av Francisco I Madero 326 Oriente Zona Centro CP 64000,Monterrey NL. Colegio Militar 400 Col. Centro CP96400,Coatzacoalcos Ver. Francisco Juarez 818 B Col. Los Angeles CP 38040,Celaya, Guanajuato AV. GRAL FELIX ORTEGA 2590-6 Y 7 COL. CENTRO,La Paz B.C.S. Av. Felipe Carrillo Puerto 110 Col Felipe Carrillo, Merida Yucatan CP 97136 Av Lopez Portillo SM60 MZ1 Lote 15 Locales 5 y 6 Col. Centro, cp 77500 Canc√∫n , QR. Lino Merino 804 Col Centro Villahermosa Tab Guadalupe Victoria 685 Zona Centro CP 25000, Saltillo, Coa. Av 20 de Noviembre 607 Col Cazones CP 92330,Poza Rica Ver. Av Acueducto 154 A Col Chapultepec Nte CP 58260,Morelia Mic. Av Vallarta 3901 Col. Granjas CP 31160,Chihuahua CH. Nicaragua 74 Col. El Colorin CP 60120 Uruapan Mic Norte 4 #112 Col. Victor Bravo Ahuja CP 71228,Oaxaca, Oax. Jose Antonio Septien 19 Col Alameda CP 76040,Queretero Que. Av Hidalgo 27-A Col Centro CP 68300 Tuxtepec Oax. Av Juarez 227 Col Centro CP 77000,Chetumal QR. Av ermita iztapalapa 2955-4 local 25 col ampliacion san miguel mexico df periferico nte esq fco terrazas col ciudad satelite 53000 edo de mexico Paseo de las Fresas 10 Col Jardines de Irapuato CP 36660,Irapuato, Gua. Av Revolucion 1307 Local 2 Centro Comercial Plaza Bella ,Pachuca Hid. Priciliano Sanchez 6 Zona Centro CP 63000, Tepic Nay. Playa de Oro 126-A Zona Hotelera Norte CP48333 Puerto Vallarta Jal Ave, Francisco Silva Romero #256, Col. Lomas de Tlaquepaque, CP. 45520 Tlaquepaque, Jal. Blvd. Luis Encinas 345 F Col. Olivares CP 83180,Hermosillo Son.  v gomez farias 606 pte col merced toluca edo mex blvd mariano escobedo 4710 col jardines de jerez leon gto av manzanillo 146d altos col arboleda manzanillo col constitucion  315 col centro cd guzman jal Blvd. San Marcos 504 Lote 12 Manzana 10 Planta Baja Fracc Circ. Pte. cp 202010, Aguascalientes, Ags. matamoros 72-a centro matamoros tam francisco i madero 211 col centro altamirano gue salvador allende 95 col pueblo nuevo cardenas tab madero 640 pte centro cd acu√±a coa emiliano zapata 0. col centro 40000 iguala gro aquiles serdan 92 ote col centro los mochis sin hidalgo 300 pte col centro ixtlan del rio nay venustiano carranza 211 locak 213 col centro monclova, coa calle 8 no 602 norte col centro 87000 cd victoria tam madero 604 col centro tierra blanca ver Av Prolongacion Americas 228 B col. zapopan centro 45100Zapopan Jal Av Ejercito Mexicano 1102 Locales 7 y 23 Col. Tierra y Libertad ,Mazatlan Sin. Manuel Avila Camacho 200 Col. Centro CP 70600, Salina Cruz Oax. GUadalajara av reforma 4400 local 12 y 13e col mexico 88280 nuevo laredo tam. plaza comercial las americas local 2 zona 3-a cp 94298 boca del rio ver. Av La Fragua 1839 Fracc Moderno 91910 Veracruz, Ver mercedarios 5 col mision de sta cruz 76804 s j del rio que Tlajomulco,Jalisco GUADALAJARA, JALISCO calle principal 202 local 1 las hortalizas sur maravatio mich av lazaro cardenas 223 col seccion 2a pochutla oax PUERTO VALLARTA JALISCO av ejercito nacional 721 col las rosas irapuato gua alvaro obregon 27 col centro las varas nay Guadalajara Av. Vallarta No 3200 Col. Vallarta San Jorge, Guadalajara, Jal. San Juan del Rio Queretaro Oaxaca …   ˆ    ÄÀ—ËA33 3121 7644    Äuô¬¯A664 650 3256   ‡‰ËDÁA312 313 6295   –„<|˛A81 8333 65 09   Wµ(B921 217 7122   pt?2ÒA461 609 1463   ¿©ÕˆA612 123 0700   xÄ†B999 926 5807   ΩõB998 883 9329   h)ÅÄB993 316 9965   †ÆÌtˇA844 410 7498   `”ñ)˝A782 823 7622   ∞Ë¿ÉA443 312 0907   p°„ˆA614 426 6695   Í•€A452 528 5025   (f.πB951 515 8725   †éHyA442 214 2186   `c rÂA287 875 5611   x•HSB983 833 5151   ÜíÙA552235 01 45   ΩÔ;ÒA462 625 0705    ⁄π¸A77 11 07 27 22 311 133 2425 y 26   †FÈËA322 222 7509 (33) 3657 1446    *h´¯A662 218 4098   ¿üz√A449 994 1884    üä‹ËA33 3685 2728   ¿åı¯A669 992 8577   (ÜB971 720 3301 yÇÈ32080505   ‡YP·A229 1303119    T™!·A229 9351 713   Äí±ﬁËA33 37981076   †‹G€ËA33 36191717    ¡¬¯A664 686 0817   ¿2ÈDÁA312 313 6918   L¯Æ3B81 83394 9260   ¯»Æ(B921 212 3423   †@2ÒA461 609 3898   ∞©ÕˆA612 123 0811    Û†B999 926 9472   ÿiõB998 887 7627   `ÇÄB993 317 7036   ∞ÆÌtˇA844 410 7499   PÉñ)˝A782 823 6341   ŒÉA443 317 6561   ê°„ˆA614 426 6697   p¶€A452 528 5623   êã+πB951 513 5346   ‡m»rÂA287 875 1599   †®HSB983 833 5252   0ÜíÙA552235 01 47    8Ò;ÒA462 625 67 70   @⁄π¸A77 11 07 27 24   `úÈËA322 222 8195 (33) 3657 1458   pz√A449 994 1367    1   @äâ"·A229 9808 850   Äí±ﬁËA33 37981076     1   Äí±ﬁËA33 37981076 mega@megagdl.com mega exhimodacdr@megagdl.com.mx 1@1.COM cdrtijuana@megagdl.com.mx cdrcolima@megagdl.com.mx cdrmonterrey@megagdl.com.mx coatzacoalcos@megagdl.com.mx celayacdr@megagdl.com.mx OAXACA@MEGAGDL.COM.MX merida@megagdl.com.mx cdrcancun@megagdl.com.mx villahermosa@megagdl.com.mx saltillocdr@megagdl.com.mx cdrpozarica@megagdl.com.mx cdrmorelia@megagdl.com.mx cdrchihuahua@megagdl.com.mx uruapan@megagdl.com.mx oaxaca@megagdl.com.mx cdrqueretaro@megagdl.com.mx tuxtepeccdr@megagdl.com.mx cdrchetumal@megagdl.com.mx cdrzaragoza@megagdl.com.mx cdrirapuato@megagdl.com.x cdrpachuca@megagdl.com.mx cdrtepic@megagdl.com.mx cdrvallarta@megagdl.com.mx tlaquepaque@megagdl.com.mx hermosillo@megagdl.com.mx mccuernavaca1@prodigy.net.mx mega@megagdl.com.mx tamez_alicia@prodigy.net.mx 2139131@prodigy.net.mx mctlaxcala@hotmail.com mc_leon@prodigy.net.mx humbertolo@prodigy.net.mx megacentrotuxtla@prodigy.net.mx kmc_tapachula24@hotmail.com megacuautla@hotmail.com mczacatecas@prodigy.net.mx megaaca@gmail.com mccdguzman@prodigy.net.mx cnvaguascalientes@megagdl.com.mx mcmatamoros@prodigy.net.mx mcaltamirano@prodigy.net.mx mega_sancristobal@hotmail.com mccardenas@ymail.com mcacumamn@yahoo.com.mx megacentroiguala@hotmail.com megacentroens@prodigy.net.mx nuriflores@msn.com centroixtlan@yahoo.com.mx mcmonclova1@prodigy.net.mx mcplayadelcarmen@prodigy.net.mx megaslrc@yahoo.com.mx mc.victoria@prodigy.net.mx mctierrablanca@prodigy.net.mx mcpalenque@hotmail.com cnvzapopan@megagdl.com.mx cnvmazatlan@megagdl.com.mx cnvscruz@megagdl.com.mx mctlajomulco@hotmail.com cnvlaredo@megagdl.com.mx cnvamericas@megagdl.com.mx mcxalapa@hotmail.com cnvlafragua@megagdl.com.mx cnvtlaquepaque@megagdl.com.mx mcotumba@hotmail.com mcsanjuandelrio1@prodigy.net.mx megatlajo@hotmail.com mcolimpica@hotmail.com maravatiomgc@gmail.com mcpochutla@hotmail.com mcocotlan@hotmail.com mgcirapuato@hotmail.com mcsanjuanbosco@hotmail.com mclasvaras@hotmail.com mctercamac@yahoo.com.mx igarcia@megagdl.com.mx eli.garduno@megagdl.com.mx 1@1.COM aromero@megagdl.com.mx sramirez@megagdl.com.mx dchavez@megagdl.com.mx cjuandiego3@megagdl.com.mx dvelazquez@megagdl.com.mx rocio.paniagua@megagdl.com.mx  mega@megagdl.com.mx megatlajo2@hotmail.com CLABE Cuenta Clabe CUENTA CLABE Cuenta clabe cuenta clabe CLAVE cuenta Clabe clabe       admin ADMIN .¬ ÍTj‰@|Ûj¢Uj‰@B¿ñÆ,‰@√b«l‰@5DPèã‰@®óâ—‰@ΩO…l‰@[§ l‰@h%¡Àl‰@f∏(ı‰@˝x$’å¸„@£(ÇÉå¸„@ ÙËÃl‰@:	Òå¸„@$u)Ëå¸„@£“ä—‰@π®Q∫å¸„@ÃÂ£ç¸„@|Û Œ‰@T!®Œl‰@&˚ ç¸„@85µå¸„@tê√êã‰@Nrö–l‰@(†ı‰@#“l‰@AÚDå—‰@ ¬aç—‰@®‡‹Ø,‰@`"‘l‰@Å1\JÓˇ„@À‡⁄L5‰@Gí[’l‰@úÈ$N5‰@°åé—‰@aßŒè—‰@ÏÁˇê—‰@Ï#gÚ±‰@YÕ`)ı‰@ó%ù*ı‰@JY≠∂ı‰@Åâò∞‰@≥`ßˆ‰@¸π’¯ˇ„@˛-üHn‰@¿ÅˇNˇ„@ìì',ı‰@≠˛kí—‰@†Ë¯ˇ„@"""2ï‰@Jı≈Öœ‰@N¡4,‰@V¢ Ø‰@Ö—Á-ı‰@£2âì—‰@[*Ëé‰@+ñÊœ¯ˇ„@∏Ìﬁk⁄ ‰@=±∞î—‰@m|b\Ã ‰@'‹q≠˝„@¸ÿï—‰@≠‰(ó‰@Ì†◊Ωñ˛„@4^·◊‰@H„Óó—‰@¸I@≈ñ˛„@i›∑h⁄ ‰@Õí çÌ‰@ı™
+d5 ‰@ˇòÍ˘Ò¸„@˘~ô—‰@:∫KœÕ‰@ÑJp“¯ˇ„@!»A±,‰@e†Ä“å¸„@khõ—‰@ı¨ÖïÍ„@È	rzÓ‰@n•4X‰@Öd⁄ú—‰@Ø`jOˇ„@;ˇ±2ı‰@ÁYÁ{ı‰@¢Oñı‰@¬´“£Î‰@â£¨4ô‰@CdÕ«ñ˛„@ºôÂ2‰@~6Ë/ı‰@€'Ø˝„@@ãOˇ„@·èµaé
+‰@f˙ÿ‰@Ì6ı‰@îŸG1ı‰@ÁæØÃñ˛„@R—Œ-‰@wQíã‰@ùLSR‰@z7e†—‰@uπ˝!∂‰@F<±◊l‰@:Vã¨è‰@&Ùu-‰@í⁄Oø,‰@îMπ⁄‰@,ÅÕ‰@˙Jo˘k‰@ÿèbù+U‰@ÕjÄW‰@=	í,‰@X…y”‰@ç”u≥‰@Ùwü+U‰@∂¡ùCtJ‰@iT•OU‰@¬ÑVŒ‰@F‹ÿ[‰@yNa‰@¯I‹e‰@x#o‰@*ÁÓt‰@z˘y‰@¨˛Ä‰@q††+U‰@‘¡¨Îk‰@MH¶›k‰@ËÔê‰@≤Û¿≥∫‰@UÈ(î‰@:Êö‰@vJU/ms‰@î3O†‰@Éæ/∞‰@ìÚ(7‰@yƒ˚¥‰@Ñ	@∫‰@X¡‰@”‚Ô∞k‰@∏o∆‰@±Òsms‰@Phl“‰@~˜+ªSc‰@∂$§‰‰@O? vC‰@/¯hk‰@{/˘¡ê%‰@{¿ê%‰@∑?»0ï‰@“ûë‰@]$	‰@Î\y‰@öº)§+U‰@Ω⁄Ó‰@Fë°#‰@Ø?uúï‰@Yp›0‰@⁄ºÑ•+U‰@ƒ”W‘i‰@Îóˇ1o‰@.èÊF‰@k◊òoÀM‰@Âb[®+U‰@dw‰@¡ô‘w¥|‰@Ë‚“™+U‰@»‘"‰@4⁄(‰@ëÏ¬-‰@ﬁl¡ß¥‰@X˝s5‰@÷
+ãl‰@Æ|F‰@P˘À?‰@"É¥O‰@4îûR≠‰@Ô46r‰@Î -‰@zzPQ‰@Ê’ÎÅ‰@µ,á‰@plå‰@˜ã;í‰@ Uÿ~‰@«s∑8±‰@d`
+‹}‰@DïLiíy‰@Ñè˝„k‰@_•Å™‰@ÄÖ‡`Æ‰@ÙFqo≥‰@©6áÕb‰@~ÒZ∂X‰@√2JˇˆZ‰@fØOU‰@˙tcºÔ>‰@•t%¡ëz‰@7ˇtq—\‰@√∆ˆˇÌZ‰@≠ œ\‰@Œí≤ ms‰@~õâ"ms‰@Äl	jÓa‰@ÇsF$ms‰@ZI‰ıb‰@∫b„X‘i‰@PõÜ5ùg‰@À±≈Uj‰@Ö«‡M6w‰@›SO6w‰@-6¿'ms‰@RÕø(ms‰@¥â∫)ms‰@√π¡*ms‰@2 @~±u‰@Ä"+7p‰@a4q.q‰@íY©¿,‰@X`z¶Rq‰@ù«N•v‰@ˆ°‰s´x‰@•¢vM.y‰@{´ıy‰@192.168.1.86-192.168.1.86 192.168.1.232-192.168.1.232 127.0.0.1-127.0.0.1 192.168.1.235-192.168.1.235 192.168.1.43-192.168.1.43 192.168.1.47-192.168.1.47 192.168.1.102-192.168.1.102 192.168.1.138-192.168.1.138 192.168.1.52-192.168.1.52                         BI bi É â	 §(
+©
+ ≈0â Ê8… AÈ 	(I	…	 
+IQ
+…
+ jY…	 ãa… ¨iâ Õq ÓyÈ Ç â  0ä"È" Qí$…$ bö&È& í¢(…( ≥™*…*	 t∞,)- b.i ’∫0È. ˆ¬2	1 À4I2 7”6I4 X€8©6 b„:â8 Ç<I;  b<I=   ¢< I?   !b<!I=!  "b<"I="  #b<#I=#  $b>$IA$  %¬<%IC%  &b@&IE&  'bB'IG' (‚<(II(  )b<)I=)  *b<*I=* +<+IK+  ,b<,I=,  -"<-IM-  .B<.IO.  /b</IQ/  0b<0I=0  1bD1IS1  2b<2i=2  3b<3I=3  4b<4I=4  5ôÏF5©T5 6¢H6IW6 7bJ7IY7  8¬<8I[8  9b<9I=9  :bL:I]:  ;zN;I_; <bP<Ia<  =‚<=Ic= ><>I=>  ?bR?Ie?  @bT@Ig@  Ab<AI=A BbVBIiB  C"<CIkC DB<DImD Eb<EI=E  FbXFIoF  GbZGIqG  Hb<HI=H  Ib<IIsI  JÇı\J©tJ K¢˝^K©vK L¬aL…xL M‚cMI{MNbdNI}NOb<OI=O  PbgPIP Q<QIÅQ  R;iRÕÇR Sb<SI=S Tb<TI=T  Ub<UHÖU  VB<VIáV  WbjWIâW X|&mXëãX YÇ.oYIçY  ZbpZIèZ  [br[Ië[  \¢u\I=\ ]bv]Iì]  ^bx^Iï^  _b _Ió_  `bz`Iô`  a¬<aIõa  bb<bI=b  cb<cI=c  db<dI=d  eb<eI=e  fb<fI=f  g‚<gJ=ghb<hi=h  i‚iI=i  jb}jHj  kbkHk Älb<lH=l Ämb<mH=m Änb<nH=n Äob<oHùo Äpb<pH=p Äqb<qH=q Ärb<rH=r Äsb<sH=s  tb<tH=t Äub<uH=u Ävb<vH=v Äwb<wH=w Äxb<xH=x Äyb<yH=y Äzb<zH=z Ä{b<{H={ Ä|b<|H=| Ä}b<}H=} Ä~b<~H=~ Äb<H= ÄÄb<ÄH=Ä ÄÅb<ÅH=Å ÄÇb<ÇH=Ç ÄÉb<ÉH=É ÄÑb<ÑHÖÑ  Öb<ÖH=Ö ÄÜb<ÜH=Ü Äáb<áH=á  àb<àH=à Äâb<âH=â Ääb<äH=ä Äãb<ãHCã Äåb<åH=å Äçb<çH=ç  éb<éH=é Äèb<èH=è  êb<êH=ê Äëb<ëH=ë  íb<íHOí Äìb<ìH=ì  îb<îH=î  ïb<ïH=ï  ñb<ñH=ñ Äób<óH=ó Äòb<òH=ò Äôb<ôH=ô Äöb<öH=ö Äõb<õH=õ Äúb<úH=ú  ùb<ùH=ù Äûb<ûH=û Äüb<üH=ü  †b<†H=†  °b<°H=° Ä¢b<¢H=¢  £b<£H=£ Ä§b<§H=§ Ä•b<•H=• Ä¶b<¶H=¶ Äßb<ßH=ß Ä®b<®H=® Ä©b<©H=© Ä™b<™Hu™ Ä´b<´H=´ Ä¨b<¨H=¨  ≠b<≠H=≠  Æb<ÆH=Æ  Øb<ØH=Ø Ä∞b<∞H=∞  ±b<±H=± Ä≤b<≤HÖ≤  ≥Ä≥H=≥  ¥b<¥H=¥ Äµb<µH=µ Ä∂b<∂H=∂ Ä∑b<∑H=∑ Ä∏b<∏H=∏  πb<πH=π Ä∫b<∫H=∫	  ªb<ªH=ª	  ºb<ºH=º ÄΩb<ΩH=Ω Äæb<æH=æ Äøb<øH=ø Ä¿b ¿H=¿  ¡b<¡H=¡
+ Ä¬b<¬H=¬
+  √b<√H=√ Äƒb<ƒH=ƒ Ä≈b<≈H=≈ Ä∆b<∆H=∆
+Ä«b<«H=«
+ Ä»b<»I=»
+  …b<…H=…   b< H=   Àb<ÀH=À ÄÃb<ÃH=Ã  Õb<ÕH=Õ ÄŒb<ŒH=Œ œb<œH=œ Ä–bÇ–H=– Ä—b<—H=— “b<“H=“  ”b<”H=”  ‘b<‘H=‘  ’b<’H=’ ÷b<÷H=÷ ◊b<◊H=◊ Äÿb<ÿH=ÿ ÄŸb<ŸH=Ÿ Ä⁄b=⁄H=⁄  €b<€H=€ Ä‹b<‹H=‹ Ä›b<›H=›Äﬁb<ﬁH=ﬁ Äﬂb<ﬂH=ﬂ Ç
